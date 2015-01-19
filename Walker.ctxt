@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sx\ sy
+comment0.target=Walker(int,\ int)
+comment1.params=
+comment1.target=void\ nextGaussianStep()
+comment2.params=
+comment2.target=void\ nextFollowMouse()
+comment3.params=
+comment3.target=void\ nextLevyStep()
+comment4.params=mean\ var
+comment4.target=int\ nextGaussian(int,\ int)
+comment5.params=
+comment5.target=void\ main()
+numComments=6

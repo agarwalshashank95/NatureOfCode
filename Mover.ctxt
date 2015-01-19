@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=mm
+comment0.target=Mover(double)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=f
+comment2.target=void\ applyForce(Vector)
+comment3.params=aa
+comment3.target=void\ addAcceleration(Vector)
+comment4.params=d
+comment4.target=void\ disp(Draw)
+numComments=5

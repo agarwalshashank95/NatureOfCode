@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=void\ mousePressed(double,\ double)
+comment1.params=x\ y
+comment1.target=void\ mouseDragged(double,\ double)
+comment2.params=x\ y
+comment2.target=void\ mouseReleased(double,\ double)
+comment3.params=c
+comment3.target=void\ keyTyped(char)
+numComments=4
